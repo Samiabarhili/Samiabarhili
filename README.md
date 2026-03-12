@@ -1,4 +1,18 @@
-## Hi there 👋
+## I'm Samia 👋
+
+Engineering student at CY Tech interested in Data & Business Intelligence.
+
+## Skills
+Python • SQL • PySpark  
+Data Analysis • Data Pipelines • Statistics  
+
+## Projects
+🌍 Sahel drought & migration analysis  
+🏙 Urban segregation statistical modeling  
+📊 Data exploration (clustering & PCA)
+
+## Interests
+Environmental data • Spatial analysis • Data engineering
 
 <!--
 **Samiabarhili/Samiabarhili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
