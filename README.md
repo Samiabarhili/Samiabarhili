@@ -7,9 +7,12 @@ Python • SQL • PySpark
 Data Analysis • Data Pipelines • Statistics  
 
 ## Projects
-🌍 Sahel drought & migration analysis  
-🏙 Urban segregation statistical modeling  
-📊 Data exploration (clustering & PCA)
+
+🌍 [Sahel drought & migration analysis](https://github.com/samiabarhili/spacehack-sahel-migration)
+
+🏙 [Urban segregation statistical modeling](https://github.com/samiabarhili/economie_urbaine_segregation_et_taille_AU)
+
+📊 [Data exploration (clustering & PCA)](https://github.com/samiabarhili/TP-Data-Exploration)
 
 ## Interests
 Environmental data • Spatial analysis • Data engineering
