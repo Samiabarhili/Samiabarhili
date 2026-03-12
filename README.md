@@ -10,9 +10,9 @@ Data Analysis • Data Pipelines • Statistics
 
 🌍 [Sahel drought & migration analysis](https://github.com/samiabarhili/spacehack-sahel-migration)
 
-🏙 [Urban segregation statistical modeling](https://github.com/samiabarhili/economie_urbaine_segregation_et_taille_AU)
+🏙 [Urban segregation statistical modeling](https://github.com/samiabarhili/urban-segregation-analysis)
 
-📊 [Data exploration (clustering & PCA)](https://github.com/samiabarhili/TP-Data-Exploration)
+📊 [Data exploration (clustering & PCA)](https://github.com/samiabarhili/salary-pattern-analysis)
 
 ## Interests
 Environmental data • Spatial analysis • Data engineering
