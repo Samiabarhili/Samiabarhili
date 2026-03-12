@@ -12,7 +12,7 @@ Data Analysis • Data Pipelines • Statistics
 
 🏙 [Urban segregation statistical modeling](https://github.com/samiabarhili/urban-segregation-analysis)
 
-📊 [Urban segregation analysis](https://github.com/samiabarhili/salary-pattern-analysis)
+📊 [Salary pattern analysis](https://github.com/samiabarhili/salary-pattern-analysis)
 
 ## Interests
 Environmental data • Spatial analysis • Data engineering
