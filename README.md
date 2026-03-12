@@ -1,4 +1,4 @@
-## I'm Samia 👋
+# Using data analysis to understand complex social and environmental systems.
 
 Engineering student at CY Tech focused on Data Engineering, Analytics and Business Intelligence.
 
