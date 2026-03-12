@@ -1,6 +1,6 @@
 ## I'm Samia 👋
 
-Engineering student at CY Tech interested in Data & Business Intelligence.
+Engineering student at CY Tech focused on Data Engineering, Analytics and Business Intelligence.
 
 ## Skills
 Python • SQL • PySpark  
