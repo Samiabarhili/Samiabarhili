@@ -3,7 +3,7 @@
 Engineering student at CY Tech focused on Data Engineering, Analytics and Business Intelligence.
 
 ## Skills
-Python • SQL • PySpark  
+Python • SQL
 Data Analysis • Data Pipelines • Statistics  
 
 ## Projects
