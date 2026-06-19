@@ -1,6 +1,5 @@
 # Using data analysis to understand complex social and environmental systems.
 
-Engineering student at CY Tech focused on Data Engineering, Analytics and Business Intelligence.
 
 ## Skills
 Python • SQL
